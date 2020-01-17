@@ -1,0 +1,41 @@
+div {
+    position: relative;
+}
+
+#Header {
+    text-align: center;
+    background-color: skyblue;
+    text-decoration-color: slateblue;
+    margin: 0px;
+    border: 0px;
+    
+}
+
+#Main {
+    float: left;
+    width: 70%;
+    margin: 0px;
+    border: 0px;
+    background-color: skyblue;
+    height: 100%;
+}
+#Sidebar {
+    background-color: slategrey;
+    width: 30%;
+    float: right;
+    margin: 0px;
+}
+
+img {
+    margin: 20px;
+    width: calc(100% - 40px);
+    display: block;
+}
+
+body {
+    margin: 20px;
+}
+
+table, th, td {
+    border: 2px solid black;
+}

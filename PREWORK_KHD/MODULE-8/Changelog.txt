@@ -1,0 +1,18 @@
+Corrections:
+
+Enclosed "Boo The Dog Fan Page" in H1 tag
+
+About Boo Section, each paragraph was enclosed in a <p> tag
+
+img tag for Boo image was missing <>
+
+added a target for a href in About Boo
+
+Separated the strings in booFacts array by enclosing each fact in quotation marks
+
+Enclosed each item in List of Boo's Favorite things in <li> tag
+
+Corrected each color button to reflect correct label
+	script for Pink did not have "" around color property.  Corrected.
+
+Added quotation around "click" in grow and shrink buttons
